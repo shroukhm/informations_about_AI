@@ -15,4 +15,5 @@ Every file talking about a topic :
                                                       - What is Web Scraping used for?
 7-In Conditional probability in business field file its talking breifly about :  - what is the Conditional probability  
                                                                                  - there uses cases in business field 
-                                                                                 
+8-In optimization techniques in machine learning file its talking breifly about : - What is optimization techniques
+                                                                                  - Types of optimization techniques in machine learning
