@@ -42,6 +42,10 @@ Every file talking about a topic :
 12 - In genetics algorithm file its talking breifly about : - What is the  genetics algorithm
                                                             - Some examples of genetic algorithms
                                                             - Advantages and disadvantages of genetic algorithms
+
+13 -In statistical model and non statistical model file its talking breifly about : -What they are
+                                                                                    -Differences between them
+                                                                                    -Some examples of statistical models and non statistical model
                                                             
                                                           
                                                           
