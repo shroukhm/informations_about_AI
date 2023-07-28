@@ -1,6 +1,6 @@
 # informations_about_AI
-this folder shows some brief  information about AI, ML , statistics , mathematics and deep learning  
 Every file talking about a topic :
+
 1-machine learning algorithms file i am talking breif about : - Which machine learning algorithm should i use?
                                                               -  ML algorithms
 2- P and NP problems file i am talking breif about  : - What is the P and NP problems and there examples
@@ -10,4 +10,6 @@ Every file talking about a topic :
                                                                                          -The Non-Probability Sampling and its four types
 4-In statistics there are many types of data distribution , In this file i am talking breifly about : - Continuous and discrete distributions and its types
 5-In statistics there are many statistical test types , In statistical test types file i am talking breifly about these types
-
+6- IN Web scrapping file i am talking breifly about : - what is it
+                                                      - its tools 
+                                                      - What is Web Scraping used for?
