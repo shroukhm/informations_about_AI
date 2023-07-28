@@ -25,4 +25,7 @@ Every file talking about a topic :
                                            - Some of the benefits of using RPA
                                            - Some of the challenges of using RPA
                                            - Some of tools of RPA 
-        
+11- In regressions in ML file its talking breifly about : - What is the regressions in ML 
+                                                          - Types of regression in machine learning 
+                                                          - Some of Use cases of regressions
+                                                          
