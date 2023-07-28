@@ -17,3 +17,6 @@ Every file talking about a topic :
                                                                                  - there uses cases in business field 
 8-In optimization techniques in machine learning file its talking breifly about : - What is optimization techniques
                                                                                   - Types of optimization techniques in machine learning
+9- PL/SQL file its talking breifly about : - what is the PL/SQL
+                                           - some of the benefits of using PL/SQL
+                                           - use cases for PL/SQL 
