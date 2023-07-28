@@ -20,3 +20,9 @@ Every file talking about a topic :
 9- PL/SQL file its talking breifly about : - what is the PL/SQL
                                            - some of the benefits of using PL/SQL
                                            - use cases for PL/SQL 
+10-In RPA file its talking breifly about : - What is the RPA
+                                           - The three main types of RPA
+                                           - Some of the benefits of using RPA
+                                           - Some of the challenges of using RPA
+                                           - Some of tools of RPA 
+        
