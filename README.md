@@ -1,55 +1,49 @@
 # informations_about_AI
-Every file talking about a topic :
+this repository contains a collection of files that discuss different topics related to machine learning, statistics, and data science.
 
-1-machine learning algorithms file its talking breif about : - Which machine learning algorithm should i use?
-                                                              -  ML algorithms
-                                                              
-2- P and NP problems file its talking breif about  : - What is the P and NP problems and there examples
-                                                      - The Use case Traveling salesman problem 
-                                                      - the diffrience between P and NP
-                                                      
-3- In statistics there are sampling techinques , In this file its talking breifly about : -The probability sampling and its four types
-                                                                                         -The Non-Probability Sampling and its four types
-                                                                                         
-4-In statistics there are many types of data distribution , In this file its talking breifly about : - Continuous and discrete distributions and its types
+Machine Learning Algorithms :
+This file discusses the different machine learning algorithms that are available and how to choose the right algorithm for a particular problem.
 
-5-In statistics there are many statistical test types , In statistical test types file its talking breifly about these types
+P and NP Problems :
+This file discusses the P and NP problems, which are two classes of problems in computer science. It also discusses the traveling salesman problem and the difference between P and NP problems.
 
-6-In Web scrapping file its talking breifly about : - what is it
-                                                      - its tools 
-                                                      - What is Web Scraping used for?
-                                                      
-7-In Conditional probability in business field file its talking breifly about :  - what is the Conditional probability  
-                                                                                 - there uses cases in business field 
-                                                                                 
-8-In optimization techniques in machine learning file its talking breifly about : - What is optimization techniques
-                                                                                  - Types of optimization techniques in machine learning
-                                                                                  
-9- PL/SQL file its talking breifly about : - what is the PL/SQL
-                                           - some of the benefits of using PL/SQL
-                                           - use cases for PL/SQL 
-                                           
-10-In RPA file its talking breifly about : - What is the RPA
-                                           - The three main types of RPA
-                                           - Some of the benefits of using RPA
-                                           - Some of the challenges of using RPA
-                                           - Some of tools of RPA 
-                                           
-11- In regressions in ML file its talking breifly about : - What is the regressions in ML 
-                                                          - Types of regression in machine learning 
-                                                          - Some of Use cases of regressions
-                                                          
-12 - In genetics algorithm file its talking breifly about : - What is the  genetics algorithm
-                                                            - Some examples of genetic algorithms
-                                                            - Advantages and disadvantages of genetic algorithms
+Sampling Techniques :
+This file discusses the different sampling techniques that are available in statistics. It discusses probability sampling and non-probability sampling, and it provides examples of each type of sampling.
 
-13- In nerual network the activation functions uses , in Activation functions file its talking breifly about :
-                                                             - what is the activation functions
-                                                             - 9 types of activation functions
-                                                             
-13 -In statistical model and non statistical model file its talking breifly about : -What they are
-                                                                                    -Differences between them
-                                                                                    -Some examples of statistical models and non statistical model
-                                                            
-                                                          
+Data Distributions :
+This file discusses the different types of data distributions that are available in statistics. It discusses continuous and discrete distributions, and it provides examples of each type of distribution.
+
+Statistical Tests :
+This file discusses the different statistical tests that are available. It provides examples of how to use these tests to analyze data.
+
+Web Scraping :
+This file discusses what web scraping is, the tools that are available for web scraping, and how web scraping can be used.
+
+Conditional Probability in Business :
+This file discusses what conditional probability is and how it can be used in business. It provides examples of how conditional probability can be used to make decisions.
+
+Optimization Techniques in Machine Learning :
+This file discusses what optimization techniques are and how they can be used in machine learning. It provides examples of different optimization techniques.
+
+PL/SQL :
+This file discusses what PL/SQL is, some of the benefits of using PL/SQL, and some use cases for PL/SQL.
+
+RPA :
+This file discusses what RPA is, the three main types of RPA, some of the benefits of using RPA, some of the challenges of using RPA, and some of the tools of RPA.
+
+Regressions in ML :
+This file discusses what regressions are in machine learning, the different types of regressions in machine learning, and some of the use cases of regressions.
+
+Genetic Algorithms :
+This file discusses what genetic algorithms are, some examples of genetic algorithms, and the advantages and disadvantages of genetic algorithms.
+
+Activation Functions :
+This file discusses what activation functions are and the different types of activation functions.
+
+Statistical Models and Non-Statistical Models :
+This file discusses what statistical models and non-statistical models are, the differences between them, and some examples of statistical models and non-statistical models.
+
+I hope this repository is helpful for you. Please feel free to contact me if you have any questions !
+                                                                         
+        
                                                           
