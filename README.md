@@ -46,6 +46,7 @@ Every file talking about a topic :
 13- In nerual network the activation functions uses , in Activation functions file its talking breifly about :
                                                              - what is the activation functions
                                                              - 9 types of activation functions
+                                                             
 13 -In statistical model and non statistical model file its talking breifly about : -What they are
                                                                                     -Differences between them
                                                                                     -Some examples of statistical models and non statistical model
