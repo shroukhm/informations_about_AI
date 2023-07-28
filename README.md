@@ -28,4 +28,9 @@ Every file talking about a topic :
 11- In regressions in ML file its talking breifly about : - What is the regressions in ML 
                                                           - Types of regression in machine learning 
                                                           - Some of Use cases of regressions
+12 - In genetics algorithm file its talking breifly about : - What is the  genetics algorithm
+                                                            - Some examples of genetic algorithms
+                                                            - Advantages and disadvantages of genetic algorithms
+                                                            
+                                                          
                                                           
